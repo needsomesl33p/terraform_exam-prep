@@ -2,5 +2,5 @@
 # SPDX-License-Identifier: MPL-2.0
 
 provider "docker" {
-  host = "unix:///Users/diamond/.colima/docker.sock"
+  host = "unix:///Users/x/.colima/docker.sock"
 }
